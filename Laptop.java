@@ -39,7 +39,7 @@ public class Laptop implements Device {
 
     public void turnOn()
     {
-        System.out.println(brand + model+ "laptop turned on");
+        System.out.println(brand + " " + model + " turned on ");
         System.out.println("processor: " + processorType);
     }
     
